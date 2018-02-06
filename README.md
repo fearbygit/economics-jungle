@@ -1,6 +1,6 @@
 ## Welcome to another Economics Blog 
 
-# DON'T PANIC! It will cover all things here in a idiot guide  
+# DON'T PANIC! It will cover all things here in a idiot guide to silly Economics  
 
 ### Economics is a hard or soft science; an obvious or plain-nonsense advise; factual or wishful thinking.   
 
@@ -8,14 +8,14 @@ It will be written in Markdown syntax within a static site generator Jekyll and 
 
 ### References:
 
-https://pages.github.com/
-https://jekyllrb.com/
-https://www.gnu.org/licenses/gpl-3.0.en.html
-http://agilemanifesto.org/
-https://www.gnu.org/licenses/gpl-3.0.en.html
-https://www.gnu.org/licenses/fdl-1.3.en.html
+* https://pages.github.com/
+* https://jekyllrb.com/
+* https://www.gnu.org/licenses/gpl-3.0.en.html
+* http://agilemanifesto.org/
+* https://www.gnu.org/licenses/gpl-3.0.en.html
+* https://www.gnu.org/licenses/fdl-1.3.en.html
 
 
 ### Support or Contact
 
-Having trouble with the pages? Check out our FAQ or commit a 
+Having trouble with the pages? Check out our FAQ or talk to a human. 
